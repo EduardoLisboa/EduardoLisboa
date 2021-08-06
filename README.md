@@ -8,7 +8,6 @@
 ---
   
 ### Linguagens:
-##
 <div style="display: inline_block">
   <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
