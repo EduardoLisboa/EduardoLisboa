@@ -53,7 +53,7 @@
 
 <div>
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=omni)
   ![Snake animation](https://github.com/EduardoLisboa/EduardoLisboa/blob/output/github-contribution-grid-snake.svg)
 
 </div>
