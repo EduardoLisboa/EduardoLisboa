@@ -9,36 +9,37 @@
   
 ### Languages:
 <div style="display: inline_block">
-  <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
   
 ### Currently learning:
 <div style="display: inline_block">
-  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ---
 
 ### Tools:
 <div style="display: inline_block">
-  <img align="center" height="28" width="119.75" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-  <img align="center" height="28" width="190.5" src="https://camo.githubusercontent.com/a0fa551a87c244a09d651ebb1ca5189a4f52a873379d7460d6fb25c55e20b324/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3230323032303f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343">
-  <img align="center" height="28" width="85.25" src="https://camo.githubusercontent.com/87f8b4bfb89380f96a10d753be68a6d8d214160f908af4487557b20083ffc601/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c615465582d3437413134313f7374796c653d666f722d7468652d6261646765266c6f676f3d4c61546558266c6f676f436f6c6f723d7768697465">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rubymine/rubymine-original.svg">
 </div>
   
 ##
   
 ### OS:
 <div style="display: inline_block">
-  <img align="center" height="28" width="112.75" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img align="center" height="28" width="98.5" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
 </div>
  
 ---
@@ -55,7 +56,6 @@
 <div>
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=omni)
-  ![Snake animation](https://github.com/EduardoLisboa/EduardoLisboa/blob/output/github-contribution-grid-snake.svg)
 
 </div>
   
